@@ -1,2 +1,6 @@
+ HEAD
 Line one: solid edit
 shared line modified
+Line one: feature-x edit
+shared line 
+
