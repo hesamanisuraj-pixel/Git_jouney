@@ -1,1 +1,2 @@
-Hello from branch solid
+line one : solid edit
+line two : shared line modified
