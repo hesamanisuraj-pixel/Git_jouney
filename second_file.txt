@@ -1,2 +1,2 @@
-line one:feature-x edit
-
+Line one: feature-x edit
+shared line 
