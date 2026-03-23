@@ -1,5 +1,6 @@
 
 
+
 Line one: solid edit
 shared line modified
 
@@ -9,4 +10,7 @@ added a new message "hello"
 hello again
 
 Hello from branch feature-x
+
+line one:feature-x edit
+Line two: shared line
 
