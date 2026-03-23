@@ -1,1 +1,2 @@
-Hello from branch feature-x
+line one:feature-x edit
+Line two: shared line
