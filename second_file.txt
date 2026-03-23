@@ -1,1 +1,2 @@
-line one : solid edit
+Line one: solid edit
+shared line modified
